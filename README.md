@@ -1,2 +1,2 @@
 # bookbot
-Bookbot project by boot.dev for refreshing my skills
+Bookbot project 1 by boot.dev for refreshing my skills
